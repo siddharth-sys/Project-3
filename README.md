@@ -1,4 +1,3 @@
-![Project-3](./Images/olympic banner.png)
 # Project-3
 ## Understanding Olympic Dataset
 Olympic Dataset - Exploratory Data Analysis (EDA)
